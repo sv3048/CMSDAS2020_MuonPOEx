@@ -1,0 +1,7 @@
+----- Begin Fatal Exception 15-Sep-2020 13:34:57 CEST-----------------------
+An exception of category 'StdException' occurred while
+   [0] Processing the python configuration file named MuonExercise1.py
+Exception Message:
+A std::exception was thrown.
+File "MuonExercise1.py" could not be opened!
+----- End Fatal Exception -------------------------------------------------
