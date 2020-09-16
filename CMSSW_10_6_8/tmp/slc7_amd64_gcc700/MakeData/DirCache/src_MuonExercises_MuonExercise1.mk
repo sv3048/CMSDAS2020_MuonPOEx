@@ -1,0 +1,2 @@
+ALL_PACKAGES += MuonExercises/MuonExercise1
+subdirs_src_MuonExercises_MuonExercise1 := src_MuonExercises_MuonExercise1_plugins
